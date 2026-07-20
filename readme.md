@@ -71,7 +71,7 @@ baggage-detection-yolo-comparison/
 Clone the repository
 
 ```bash
-git clone https://github.com/Sandy-YP-Holley/baggage-detection-yolo-comparison.git
+https://github.com/Sandy-YP-Holley/backpack-detection.git
 ```
 
 Install dependencies
